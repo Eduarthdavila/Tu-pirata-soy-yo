@@ -1,0 +1,6 @@
+@Api_Sistema_ventas_HostAddress = http://localhost:5069
+
+GET {{Api_Sistema_ventas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
